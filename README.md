@@ -146,7 +146,7 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@WardLT](https://github.com/WardLT/)
 * [@carterbox](https://github.com/carterbox/)
-* [@conda-forge/funcx](https://github.com/conda-forge/funcx/)
-* [@conda-forge/funcx-common](https://github.com/conda-forge/funcx-common/)
+* [@jan-janssen](https://github.com/jan-janssen/)
 
