@@ -94,6 +94,6 @@ about:
 
 extra:
   recipe-maintainers:
-    - carterbox
+    - conda-forge/globus-compute-sdk
     - WardLT
     - jan-janssen
