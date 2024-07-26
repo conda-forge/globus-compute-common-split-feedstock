@@ -147,6 +147,6 @@ Feedstock Maintainers
 =====================
 
 * [@WardLT](https://github.com/WardLT/)
-* [@carterbox](https://github.com/carterbox/)
+* [@conda-forge/globus-compute-sdk](https://github.com/conda-forge/globus-compute-sdk/)
 * [@jan-janssen](https://github.com/jan-janssen/)
 
