@@ -1,5 +1,5 @@
 {% set name = "globus-compute-common" %}
-{% set version = "0.7.0" %}
+{% set version = "0.7.1" %}
 {% set python_min = "3.10" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name.replace('-', '_') }}-{{ version }}.tar.gz
-    sha256: 6c97a8c5138310f63a7d01d3596cc78e534b5c6d7245873d0d3a9ad175263cf0
+    sha256: 2797aa7fdc91e7f944dd072eec4625766511d26af559bac374b1fb34321c94cb
   - url: https://raw.githubusercontent.com/funcx-faas/funcx-common/main/LICENSE
     sha256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
 
